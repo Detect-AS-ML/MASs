@@ -1,4 +1,4 @@
-# The paperfiles for Microservices Architectural Smells
+# The paperfiles for Microservice Architectural Smells(MASs)
 Here we further supplement the content of our paper including the list of selected papers, the contents for RQ2 and the template for dicussing the categories of MASs.
 
 ## Selected Literature List
