@@ -9,3 +9,6 @@ The topics of RQs are not same, the results of RQ1 are the base for RQ2.  Theref
 
 ## The categories for MASs
 The 22 MASs are discussed by the template including the category, name of MAS, definition, design violation, interest, solution and similar smells. And we recorded the involved papers that involve corresponding MASs.
+
+## The MAS detection datasets
+The raw datasets and strong correlation datasets for MS detection.
